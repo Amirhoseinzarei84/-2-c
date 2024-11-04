@@ -1,0 +1,14 @@
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\si shorp\مرین دوم اعداد اینه ای با سی شارپ\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
